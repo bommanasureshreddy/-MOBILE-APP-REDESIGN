@@ -43,3 +43,7 @@ Settings
 2. Video Player Screen 
 3. Navigation Bar 
 4. Settings Screen
+
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/75178f4a-0fab-48fc-85db-19f2f509d565)
